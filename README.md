@@ -12,6 +12,15 @@ I like to code with lots of coffe and a good metal music! yeah 🤘
 - 📫 How to reach me: [my site](https://matheus-vieira.github.io)
 - ⚡ Fun fact: I work with IT for over than 14 years 😄
 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=matheus-vieira&show_icons=true&count_private=true)
+
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-vieira&repo=github-readme-stats)](https://github.com/matheus-vieira/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-vieira)](https://github.com/matheus-vieira/github-readme-stats)
+
 <!--
 **matheus-vieira/matheus-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
