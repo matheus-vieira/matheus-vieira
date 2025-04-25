@@ -6,8 +6,6 @@ I love God, my wife, my son, and my little daughter (an angel 👼) and then I l
 
 I like to code with lots of coffee and good metal music! Yeah 🤘
 
-
-- 🔭 I’m currently working to [Dell](https://www.dell.com/) developing backend API's with .NET technologies
 - 🌱 I’m currently learning about AWS and AZURE
 - 💬 Ask me about problem-solving related to software development and architecture
 - 📫 How to reach me: [my site](https://matheus-vieira.github.io)
